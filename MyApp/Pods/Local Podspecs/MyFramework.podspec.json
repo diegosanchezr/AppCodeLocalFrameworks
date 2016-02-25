@@ -1,0 +1,16 @@
+{
+  "name": "MyFramework",
+  "version": "1.0.0",
+  "summary": "MyFramework",
+  "description": "MyFramework",
+  "homepage": "",
+  "license": {
+    "type": "MIT"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFramework/**/*.{h,m,swift}",
+  "public_header_files": "MyFramework/**/*.h",
+  "requires_arc": true
+}

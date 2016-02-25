@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'MyFramework', :path => "../MyFramework"
+pod 'AFNetworking', '~> 3.0'
